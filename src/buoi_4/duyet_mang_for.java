@@ -14,7 +14,7 @@ public class duyet_mang_for {
 
 
 
-
+// Bài tập deadline vào 22h thứ 7 hàng tuần. và sẽ sửa bài vào chủ nhật ( Nếu có)
 
 
 }
